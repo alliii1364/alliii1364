@@ -2,7 +2,7 @@
 
 DevOps & Software Engineer based in Karachi, Pakistan. I build full-stack web apps and keep them running in production, covering the database, API, frontend, CI/CD pipeline and the Linux servers underneath.
 
-I work at **iTecknologi Group**, where I moved from System Support to Junior DevOps to my current role. Outside work, I build AI-powered web apps and custom e-commerce systems for clients in the US, UK and EU.
+I work at **iTecknologi Group**, where I moved from System Support to Junior DevOps to my current role. Outside work, I build AI-powered web apps and custom e-commerce systems.
 
 ### Tech stack
 
